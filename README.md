@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Adriano</h1>
-<h3 align="center">I love Latte Macchiato :D</h3><br><br>
+<p align="center">Currently improving my skills in software engineering</p>
 
-
-- Currently improving my skills in **software engineering**
-- You can reach me via **adrijimenezh@hotmail.com**
 
 
 <!---
