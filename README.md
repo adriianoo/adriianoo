@@ -3,10 +3,6 @@
 <br>
 <img align="right" alt="Programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriianoo&layout=compact">
 
-- 🔭 I’m currently working on **Fullstack websites**
-
-- 🌱 I’m currently learning **MERN-Stack**
-
 - 📫 How to reach me **adrijimenezh@hotmail.com**
 
 - ⚡ Fun fact **I turn coffee into code**
